@@ -122,7 +122,7 @@ function handleNoClick() {
         yesButton.style.left = "0";
         yesButton.style.width = "100vw";
         yesButton.style.height = "100vh";
-        yesButton.style.fontSize = "10vw"; // Very large text
+        yesButton.style.fontSize = "10vw"; 
         yesButton.style.borderRadius = "0";
         yesButton.style.zIndex = "9999";
         yesButton.textContent = "YES ❤️";
